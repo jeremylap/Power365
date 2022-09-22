@@ -1,0 +1,13 @@
+adx_sitesetting:
+  - adx_sitesettingid: 62d91450-aecb-ec11-a7b5-0022486fa234
+    adx_value: ${OS.GIMPACTE_PROD_GOOGLE_CLIENT_ID} 
+    adx_name: Authentication/OpenAuth/Google/ClientId
+  - adx_sitesettingid: 63d91450-aecb-ec11-a7b5-0022486fa234
+    adx_value: ${OS.GIMPACTE_PROD_GOOGLE_CLIENT_SECRET} 
+    adx_name: Authentication/OpenAuth/Google/ClientSecret
+  - adx_sitesettingid: 2b400cec-63af-ec11-9840-000d3a959849 
+    adx_value: ${OS.GIMPACTE_PROD_MS_CLIENT_ID} 
+    adx_name: Authentication/OpenAuth/Microsoft/ClientId
+  - adx_sitesettingid: 2e400cec-63af-ec11-9840-000d3a959849
+    adx_value: ${OS.GIMPACTE_PROD_MS_CLIENT_SECRET} 
+    adx_name: Authentication/OpenAuth/Microsoft/ClientSecret

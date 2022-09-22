@@ -1,0 +1,34 @@
+[
+  {
+    "name": "PREPROD_GOOGLE_CLIENT_ID",
+    "value": "xxx.apps.googleusercontent.com"
+  },
+  {
+    "name": "PREPROD_GOOGLE_CLIENT_SECRET",
+    "value": "GOCSPX-xxx"
+  },
+  {
+    "name": "PREPROD_MS_CLIENT_ID",
+    "value": ""
+  },
+  {
+    "name": "PREPROD_MS_CLIENT_SECRET",
+    "value": ""
+  },
+  {
+    "name": "PROD_GOOGLE_CLIENT_ID",
+    "value": "xxx.apps.googleusercontent.com"
+  },
+  {
+    "name": "PROD_GOOGLE_CLIENT_SECRET",
+    "value": "GOCSPX-xxx"
+  },
+  {
+    "name": "PROD_MS_CLIENT_ID",
+    "value": ""
+  },
+  {
+    "name": "PROD_MS_CLIENT_SECRET",
+    "value": ""
+  }
+]
